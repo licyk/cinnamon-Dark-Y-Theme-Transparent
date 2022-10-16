@@ -22,3 +22,13 @@
   sudo mv ./Mint-Y-Dark-Transparent /usr/share/themes/
 
 再进入cinnamon的系统设置——>主题——>桌面，就可以看到Mint-Y-Dark-Transparent主题了
+
+仓库里也有基于Debian打包好的安装包：
+
+安装
+  
+  sudo dpkg -i mint-transparent-theme.deb
+
+卸载
+
+  sudo dpkg -r mint-transparent-theme.deb
