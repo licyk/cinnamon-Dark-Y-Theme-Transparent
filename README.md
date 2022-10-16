@@ -5,11 +5,12 @@
 
   https://forums.linuxmint.com/viewtopic.php?t=156948
   
-##安装方法：
+安装方法：
 
 将压缩包下载：
 
   git clone https://github.com/licyk/cinnamon-Dark-Y-Theme-Transparent.git
+  <br/>
   cd cinnamon-Dark-Y-Theme-Transparent
 
 解压：
