@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Mint-Y-Dark-Aqua-Transparent
+Comment=Linux mint官方的Mint-Y-Dark-Aqua主题修改版，对主题的透明度进行了小修改
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Mint-Y-Dark-Aqua-Transparent
+MetacityTheme=Mint-Y
+IconTheme=Mint-Y
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
